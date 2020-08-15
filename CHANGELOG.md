@@ -1,6 +1,6 @@
 # Changes
 
-## 0.7.2
+## 0.7.3
 
 * Upgrade to react-common 0.9.7
 * Upgrade to scalajs-react 1.7.5
