@@ -34,7 +34,7 @@ object RGLDemo {
         )
 
       println(
-        getBreakpointFromWidth(layouts.map { case (x, (w, _, _)) => (x -> w) },
+        getBreakpointFromWidth(layouts.map { case (x, (w, _, _)) => x -> w },
                                useResize.width.orEmpty
         )
       )
