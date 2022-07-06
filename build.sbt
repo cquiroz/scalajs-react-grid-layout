@@ -6,7 +6,7 @@ val reactGridLayout = "1.2.5"
 val scalaJsReact = "2.1.1"
 val scalaJSDom   = "2.2.0"
 val reactCommon  = "0.17.0"
-val cats         = "2.7.0"
+val cats         = "2.8.0"
 val utest        = "0.7.11"
 
 Global / onChangedBuildSource := ReloadOnSourceChanges
